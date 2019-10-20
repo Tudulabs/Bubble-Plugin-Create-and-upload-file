@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAH": {
+            "name": "download.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1571535574528x900341702151353000/download.js"
+        }
+    },
+    "dependencies": {
+        "use_jquery": false
+    }
+}

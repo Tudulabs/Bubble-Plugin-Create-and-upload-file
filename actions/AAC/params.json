@@ -1,0 +1,14 @@
+{
+    "category": "plugins",
+    "display": "Create and Upload File",
+    "fields": {
+        "AAD": {
+            "caption": "Text to convert and upload",
+            "editor": "DynamicValue",
+            "name": "text_to_convert_and_upload",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
